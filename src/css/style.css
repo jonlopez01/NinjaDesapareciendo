@@ -1,0 +1,49 @@
+
+
+*{
+    padding: 0px;
+    margin: 0px;
+    /* outline: 1px solid red; */
+}
+
+.main{
+    width: 95%;
+    margin: 0 auto;
+}
+img{
+    width: 300px;
+    margin-left: 30px;
+    margin-bottom: 30px;
+}
+
+a{
+    margin-left: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Mediaquery */
+@media only screen and (max-width: 480px){
+
+}
+
+
+@media (min-width: 481px) and (max-width: 1023px){
+
+}
+
+@media (min-width: 1024px){
+
+}
